@@ -1,0 +1,11 @@
+.. 博文开头的原创博文申明
+.. raw:: html
+
+    <div align="center">
+        <a href="../../blog.html">
+            <img src="https://img.shields.io/badge/原创-翻译-brightgreen.svg "  />
+        </a>
+        <a href="https://rdcu.be/OcgK">
+            <img src="https://img.shields.io/badge/原文-pdf-brightgreen.svg " />
+        </a>
+    </div> 

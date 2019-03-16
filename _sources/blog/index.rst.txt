@@ -1,0 +1,16 @@
+Blog Posts
+----------
+
+
+.. postlist:: 1
+   :list-style: circle
+   :tags: draft
+   :category: Manual
+   :date: %Y.%m.%d
+   :format: {date}|{title}
+   :sort:
+
+.. toctree::
+    :hidden:
+
+    news/blog_1_大洋52航次B段科学考察将于5月开启.rst

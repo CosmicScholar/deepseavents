@@ -1,0 +1,429 @@
+.. _DeepSeaVents_index:
+
+
+.. title:: DeepSeaVents
+
+
+.. meta::
+   :description: Deep Sea Hydrothermal Vents
+   :keywords: Black Smoker, hydrothermal system, mid-ocean ridge, MOR
+
+
+
+.. raw:: html
+
+    <div class="row" style="margin-top:5px">
+        <div class="col-lg-7">
+            <div class="banner con_1100" id="banner">
+            <!--#begineditable name="中文轮播图图片列表" action="webber.wbst.com.image.ColumnImage" layout="/system/_component/columnimage/tplimagelist.jsp" tpltype="1" contype="image" clone="" viewid="193036" contentviewid="" tagname="中文轮播图图片列表"-->
+            <!-- 淡入淡出轮播 -->
+            <div class="box2">
+                <!-- 新消息图片轮播 -->
+                <ul class="imgs2">
+                    <li style="display:block" >
+                    <a href="pages/Group/index_project.html">
+                    <img src="_static/image/homepage/global_cruise.jpg" alt="" />
+                    </a>
+                    </li>
+                    <li style="display:block" >
+                    <a href="https://mp.weixin.qq.com/s/9XQESDvafxdshEc4dO8QAQ">
+                    <img src="_static/image/homepage/jiaolong.jpg" alt="" />
+                    </a>
+                    </li>
+                </ul>
+                <!-- 翻页导航 -->
+                <div class="but2">
+                    <a class="active2" href="javascript:void(0)"></a>
+                    <a href="javascript:void(0)"></a>
+                </div>
+                <!-- 翻页 -->
+                <div class="pre2" style="background:url(_static/image/banner-ico.png) no-repeat 0 0;"></div>
+                    <div class="next2" style="background:url(_static/image/banner-ico.png) no-repeat -90px 0;}">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-5">
+            <div class="panel panel-primary" >
+                <div class="panel-heading" >
+                <h3 class="panel-title" align="left"><strong><font size="3" ">最新消息</font></strong>  
+                    <span style='float:right;'><a href="pages/News/index.html" ><font size="3" color="black">阅读更多</font></a></span>
+                </h3>
+                </div>
+                <div class="panel-body" align="left">
+
+                    <li ><a href="https://mp.weixin.qq.com/s/9XQESDvafxdshEc4dO8QAQ" 
+                            title="西南印度洋项目组诚邀博后加盟，研究生报考">
+                                <font color="black">西南印度洋项目组诚邀博后加盟，研究生报考</font></a>
+                                <span  style='float:right;'>[2019-03-15]</span>
+                    </li>
+
+                    <li style="margin-top:10px"><a href="blog/news/blog_1_大洋52航次B段科学考察将于5月开启.html" 
+                            title="大洋52航次B段科学考察将于5月开启">
+                                <font color="black">大洋52航次B段科学考察将于5月开启</font></a>
+                                <span  style='float:right;'>[2019-03-13]</span>
+                    </li>
+
+                    <li style="margin-top:10px"><a href="https://mp.weixin.qq.com/s?__biz=MzUxMjU4NzkyNQ==&mid=2247483974&idx=1&sn=9a44dacb74c3d3346e69c8469fa4e33f&chksm=f96363bcce14eaaafd3743dacfb510c34d46969d448cac03e63ec76b0a61fd65758ed3bd0663#rd" 
+                            title="自然资源部第二海洋研究所出版海底硫化物勘查方法与技术专著">
+                                <font color="black">海洋二所出版海底硫化物勘查方法与技术专著</font></a>
+                                <span style='float:right;'>[2018-12-26]</span>
+                    </li>
+
+                    <li style="margin-top:10px"><a href="https://mp.weixin.qq.com/s?__biz=MzUxMjU4NzkyNQ==&mid=2247483965&idx=1&sn=8e4109c06187ac540a0298808ed01af5&chksm=f96363c7ce14ead110798a2d51ce2c36155fa37afe2bb0bacee39e1f5503957a2370f3f5e9fc#rd" 
+                            title="第五届中俄大洋中脊硫化物勘探研讨会在海洋二所召开">
+                                <font color="black">第五届中俄大洋中脊硫化物...</font></a>
+                                <span  style='float:right;'>[2018-12-13]</span>
+                    </li>
+
+                    <li style="margin-top:10px"><a href="https://mp.weixin.qq.com/s?__biz=MzUxMjU4NzkyNQ==&mid=2247483961&idx=1&sn=a7d583780999653ce15bb1ddd71d1585&chksm=f96363c3ce14ead543c23047068baf6da0b90e7b3ad7eec7fb1b9dd76940f7f06109bb3cd295#rd" 
+                            title="由海洋二所推动的InterRidge硫化物资源工作组成立">
+                                <font color="black">海洋二所推动的InterRidge...成立</font></a>
+                                <span  style='float:right;'>[2018-12-10]</span>
+                    </li>
+
+                    <li style="margin-top:10px"><a href="https://mp.weixin.qq.com/s?__biz=MzUxMjU4NzkyNQ==&mid=2247483920&idx=1&sn=d8ca6c078bb6a3f69ba3e4af1f309551&chksm=f96363eace14eafce27461dbb3c7572e8b13951e84431b1fc25e57afb86a0749eab2db5fb999#rd" 
+                            title="深海电法关键技术与应用获部级一等奖">
+                                <font color="black">深海电法关键...获部级一等奖</font></a>
+                                <span style='float:right;'>[2018-11-05]</span>
+                    </li>
+
+                    <li style="margin-top:10px"><a href="https://mp.weixin.qq.com/s?__biz=MzUxMjU4NzkyNQ==&mid=2247483720&idx=1&sn=7872a07d82d4c24e22b0e6ddc46de8e6&chksm=f96360b2ce14e9a49618ae5eaf36b628b5458d5338ab51f22473e127ea74adcd199679c518c5#rd" 
+                            title="大洋49航次第一航段完成，台风围剿，归途受阻">
+                                <font color="black">大洋49航次第一航段完成，台风...</font></a>
+                                <span style='float:right;'>[2018-01-16]</span>
+                    </li>
+
+                    
+
+                    <li style="margin-top:10px"><a href="https://mp.weixin.qq.com/s?__biz=MzUxMjU4NzkyNQ==&mid=2247483771&idx=1&sn=ce99cf94b6d0e5712aa4cede017b06ca&chksm=f9636081ce14e997480eb8ee6214bf42207028e167d046cb761ab6bdd2e29161a7b6bf8fa0b3#rd" 
+                            title="【大洋49航次】”潜龙二号“AUV航次首潜成功，实现工程化应用">
+                                <font color="black">”潜龙二号“AUV航次首潜成功...</font></a>
+                                <span style='float:right;'>[2018-02-12]</span>
+                    </li>
+
+                    <li style="margin-top:10px"><a href="https://mp.weixin.qq.com/s?__biz=MzUxMjU4NzkyNQ==&mid=2247483794&idx=1&sn=bd2872100731a16f47fa5b70fe143505&chksm=f9636068ce14e97e5998d47be4d74cc2695cf0515fbe90a4bd0d612bfb89ed18d580bdc118f4#rd" 
+                            title="【大洋49航次】“潜龙二号”AUV第二航段完美收官">
+                                <font color="black">【大洋49航次】“潜龙二号”第二航段完美收官</font></a>
+                                <span style='float:right;'>[2018-03-05]</span>
+                    </li>
+
+                    <li style="margin-top:10px"><a href="https://mp.weixin.qq.com/s?__biz=MzUxMjU4NzkyNQ==&mid=2247483700&idx=1&sn=6f9fb1d0b683828b407028d44a8d23ad&chksm=f96360cece14e9d850795a9119d2cb57f93d0e6c3bd3cdeacec70c4c0819d687aaa727d7b099#rd" 
+                            title="国家海洋局印发：《深海海底区域资源勘探开发样品管理暂行办法》">
+                                <font color="black">国家海洋局印发：《深海海底区域资源勘探...》</font></a>
+                                <span style='float:right;'>[2018-01-04]</span>
+                    </li>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 条目预览第一行 --> 
+    <div class="row">
+    <div class="col-lg-6">
+    <div class="panel panel-primary" >
+        <div class="panel-heading" >
+            <h3 class="panel-title" align="left"><strong><font size="3" ">航次介绍</font></strong> 
+            <span style='float:right;'><a href="pages/Cruise/index.html" ><font size="3" color="black">阅读更多</font></a></span>
+            </h3>
+        </div>
+        <div class="panel-body" align="left">
+            <li ><a href="https://mp.weixin.qq.com/s?__biz=MzUxMjU4NzkyNQ==&mid=2247483868&idx=1&sn=4ceea8e6d73c5ae805febd351fc0811f&chksm=f9636026ce14e930e9298c61257d7c7f36f40722191bf1f212f6486519c1e1ca03755724ecdd#rd" 
+                    title="【大洋49航次】为海底“做CT”，为地球“诊脉”">
+                        <font color="black">【大洋49航次】为海底“做CT”，为地球“诊脉”</font></a>
+                        <span  style='float:right;'>[2018-05-16]</span>
+            </li>
+
+            <li style="margin-top:10px"><a href="https://mp.weixin.qq.com/s?__biz=MzUxMjU4NzkyNQ==&mid=2247483807&idx=1&sn=124153bd7f9b53b5c5250738b9339e63&chksm=f9636065ce14e9730d8939ffb638bc151fb7e9f8fbb8ca478ff3477a996122d21717dd1ee2b5#rd" 
+                    title="【大洋49航次】业务化运行的“潜龙二号”">
+                        <font color="black">【大洋49航次】业务化运行的“潜龙二号”</font></a>
+                        <span  style='float:right;'>[2018-03-07]</span>
+            </li>
+
+            <li style="margin-top:10px"><a href="https://mp.weixin.qq.com/s?__biz=MzUxMjU4NzkyNQ==&mid=2247483803&idx=1&sn=d1ebcea71b49bde52838bc6ad28545f0&chksm=f9636061ce14e97753fffedf205f755b163a947cca7afd56eba2864a1f1104705bb8af816605#rd" 
+                    title="【大洋49航次】“潜龙二号”的新本领：无母船值守作业">
+                        <font color="black">【大洋49航次】“潜龙二号”的新本领：无母船值守作业</font></a>
+                        <span  style='float:right;'>[2018-03-06]</span>
+            </li >
+
+            <li style="margin-top:10px"><a href="https://mp.weixin.qq.com/s?__biz=MzUxMjU4NzkyNQ==&mid=2247483794&idx=1&sn=bd2872100731a16f47fa5b70fe143505&chksm=f9636068ce14e97e5998d47be4d74cc2695cf0515fbe90a4bd0d612bfb89ed18d580bdc118f4#rd" 
+                    title="【大洋49航次】“潜龙二号”AUV第二航段完美收官">
+                        <font color="black">【大洋49航次】“潜龙二号”AUV第二航段完美收官</font></a>
+                        <span  style='float:right;'>[2018-03-05]</span>
+            </li>
+            
+            <li style="margin-top:10px"><a href="https://mp.weixin.qq.com/s?__biz=MzUxMjU4NzkyNQ==&mid=2247483771&idx=1&sn=ce99cf94b6d0e5712aa4cede017b06ca&chksm=f9636081ce14e997480eb8ee6214bf42207028e167d046cb761ab6bdd2e29161a7b6bf8fa0b3#rd" 
+                    title="【大洋49航次】”潜龙二号“AUV航次首潜成功，实现工程化应用">
+                        <font color="black">【大洋49航次】”潜龙二号“AUV航次首潜成功...</font></a>
+                        <span  style='float:right;'>[2018-02-12]</span>
+            </li>
+
+            <li style="margin-top:10px"><a href="https://mp.weixin.qq.com/s?__biz=MzUxMjU4NzkyNQ==&mid=2247483768&idx=1&sn=2864c7b62d145909c8bc0e1e73548127&chksm=f9636082ce14e99488f421a82591316b8987ecbcaada528ad28388a6e37c554b7ecb50c3853e#rd" 
+                    title="【大洋49航次】第二航段首战发现热液异常">
+                        <font color="black">【大洋49航次】第二航段首战发现热液异常</font></a>
+                        <span  style='float:right;'>[2018-02-11]</span>
+            </li>
+
+            <li style="margin-top:10px"><a href="https://mp.weixin.qq.com/s?__biz=MzUxMjU4NzkyNQ==&mid=2247483744&idx=1&sn=74a07039286c88d37ca891a81558f286&chksm=f963609ace14e98cecdf1088eb504611b00f9595bf450ca9cc120b03eb0d432327d5f41c1656#rd" 
+                    title="【大洋49航次】60天，七项任务，六大成果">
+                        <font color="black">【大洋49航次】60天，七项任务，六大成果</font></a>
+                        <span  style='float:right;'>[2018-02-07]</span>
+            </li>
+
+            <li style="margin-top:10px"><a href="https://mp.weixin.qq.com/s?__biz=MzUxMjU4NzkyNQ==&mid=2247483711&idx=1&sn=558b18ee389464dfe04dacab292b2d18&chksm=f96360c5ce14e9d382c0391431fa8e291ca8efd4f6fbf721991ad8b27d9117d0142f56c6aa50&token=1973161080&lang=zh_CN#rd" 
+                    title="【大洋49航次】成功回收锚系，创多项之最">
+                        <font color="black">【大洋49航次】成功回收锚系，创多项之最</font></a>
+                        <span  style='float:right;'>[2018-01-09]</span>
+            </li>
+        </div>
+    </div>
+    </div>
+
+    <div class="col-lg-6">
+    <div class="panel panel-primary" >
+        <div class="panel-heading" >
+            <h3 class="panel-title" align="left"><strong><font size="3" ">研究进展</font></strong> 
+            <span style='float:right;'><a href="pages/Advance/index.html" ><font size="3" color="black">阅读更多</font></a></span>
+            </h3>
+        </div>
+        <div class="panel-body" align="left">
+            <li "><a href="https://mp.weixin.qq.com/s?__biz=MzUxMjU4NzkyNQ==&mid=2247484008&idx=1&sn=f5b9e04b9a7d6779df6a0e44e365331f&chksm=f9636392ce14ea848c56fdc20d76e172a48d600059e20b783335c93550094e4f340dcf9a9520#rd" 
+                    title="西南印度洋脊中段（49.2°-50.8°E）岩石圈结构和构造过程：来自微地震活动的证据">
+                        <font color="black">西南印度洋脊中段...来自微地震活动的证据</font></a>
+                        <span style='float:right;'>[2019-01-30]</span>
+            </li>
+
+            <li style="margin-top:10px"><a href="https://mp.weixin.qq.com/s?__biz=MzI1NzEyMDQxNQ%3D%3D&mid=2650528784&idx=1&sn=c962b9d2f7148cbcc2fe2cf66cfa3a9b&scene=45#wechat_redirect" 
+                    title="三步法”在洋中脊硫化物勘查远景调查中的应用">
+                        <font color="black">三步法”在洋中脊硫化物勘查远景调查中的应用</font></a>
+                        <span style='float:right;'>[2019-01-09]</span>
+            </li>
+
+            <li style="margin-top:10px"><a href="https://mp.weixin.qq.com/s?__biz=MzUxMjU4NzkyNQ==&mid=2247483998&idx=1&sn=0ac84a0c34027a887e7ae2f1fd00d631&chksm=f96363a4ce14eab261008f668a358ac3faf4790ba6ea3d06a77e134e01b6059bf727846d40ac#rd" 
+                    title="洋中脊-地幔柱相互作用的新模式">
+                        <font color="black">洋中脊-地幔柱相互作用的新模式</font></a>
+                        <span style='float:right;'>[2019-01-10]</span>
+            </li>
+
+            <li style="margin-top:10px"><a href="https://mp.weixin.qq.com/s?__biz=MzUxMjU4NzkyNQ==&mid=2247483986&idx=1&sn=584ee8f783c859f47272e95cde08247b&chksm=f96363a8ce14eabe2ab31547f3bd75ac5c00746bb1816625e8ff3bcdcdc2d48790a0dd9ee648#rd" 
+                    title="西南印度洋脊龙角区表层沉积物地球化学特征及其对热液活动的指示">
+                        <font color="black">西南印度洋脊龙角区表层沉积物地球化学特征...的指示</font></a>
+                        <span style='float:right;'>[2018-12-29]</span>
+            </li>
+
+            <li style="margin-top:10px"><a href="https://mp.weixin.qq.com/s?__biz=MzUxMjU4NzkyNQ==&mid=2247483974&idx=1&sn=9a44dacb74c3d3346e69c8469fa4e33f&chksm=f96363bcce14eaaafd3743dacfb510c34d46969d448cac03e63ec76b0a61fd65758ed3bd0663#rd" 
+                    title="自然资源部第二海洋研究所出版海底硫化物勘查方法与技术专著">
+                        <font color="black">海洋二所出版海底硫化物勘查方法与技术专著</font></a>
+                        <span style='float:right;'>[2018-12-26]</span>
+            </li>
+
+            <li style="margin-top:10px"><a href="https://mp.weixin.qq.com/s?__biz=MzUxMjU4NzkyNQ==&mid=2247483970&idx=1&sn=7d3b0e7cc1c6f8688395a48d9e94e6cb&chksm=f96363b8ce14eaaea6928e22a3b1128f6cf7d1a9e38f431eba6614798d19a2cc37ccccfb8ea9#rd" 
+                    title="超慢速扩张洋脊的玄武岩浆中硫的地球化学行为">
+                        <font color="black">超慢速扩张洋脊的玄武岩浆中硫的地球化学行为</font></a>
+                        <span style='float:right;'>[2018-12-30]</span>
+            </li>
+
+            <li style="margin-top:10px"><a href="https://mp.weixin.qq.com/s?__biz=MzUxMjU4NzkyNQ==&mid=2247483958&idx=1&sn=72cabaa30b03f0f700be8739e412f9b3&chksm=f96363ccce14eada386e4152ce8f4fb9ee06c2dca0d09a5038158b94b56c9499a9664ac8628e#rd" 
+                    title="复杂作业条件下AUV近底磁测数据三维聚焦反演">
+                        <font color="black">复杂作业条件下AUV近底磁测数据三维聚焦反演</font></a>
+                        <span style='float:right;'>[2018-12-04]</span>
+            </li>
+
+            <li style="margin-top:10px"><a href="https://mp.weixin.qq.com/s?__biz=MzUxMjU4NzkyNQ==&mid=2247483950&idx=1&sn=dcda216bddcd2b2e2fc31c759ea1e5af&chksm=f96363d4ce14eac22798392ffc6cc77ea5d746adf6adbab173602dcae478c6a919797ce50ae1#rd" 
+                    title="海底底质声学利器——海底沉积物声学特性测量设备谱系">
+                        <font color="black">海底底质声学利器——海底沉积物声学特性测量设备谱系</font></a>
+                        <span style='float:right;'>[2018-11-19]</span>
+            </li>
+            <div class="clear">
+            </div>
+        </div>
+    </div>
+    </div>
+    </div>
+    <!-- 条目预览第二行 -->
+    <div class="row">
+    <div class="col-lg-6">
+    <div class="panel panel-primary" >
+        <div class="panel-heading" >
+            <h3 class="panel-title" align="left"><strong><font size="3" ">科考采风</font></strong>
+            <span style='float:right;'><a href="pages/People_live/index.html" ><font size="3" color="black">阅读更多</font></a></span>
+            </h3>
+        </div>
+        <div class="panel-body" align="left">
+            <li "><a href="https://mp.weixin.qq.com/s?__biz=MzI3NDI5MjI4OQ%3D%3D&mid=2247500783&idx=3&sn=e33a1db9ab6465fb355ae6312e7c40a5&scene=45#wechat_redirect" 
+                    title="科技日报：茫茫大海，搜寻海底地震仪是一种怎样的体验">
+                        <font color="black">科技日报：茫茫大海，搜寻海底地震仪是一种怎样的体验</font></a>
+                        <span style='float:right;'>[2018-05-16]</span>
+            </li>
+
+            <li style="margin-top:10px"><a href="https://mp.weixin.qq.com/s?__biz=MzI3NDI5MjI4OQ%3D%3D&mid=2247499369&idx=3&sn=8867f2b04698ed314b861f44413d2384&scene=45#wechat_redirect" 
+                    title="科技日报：连不上网！茫茫大洋上，科考队员如何度过漫漫长夜？">
+                        <font color="black">科技日报：连不上网！科考队员如何度过漫漫长夜？</font></a>
+                        <span style='float:right;'>[2018-04-08]</span>
+            </li>
+
+            <li style="margin-top:10px"><a href="https://mp.weixin.qq.com/s?__biz=MzUxMjU4NzkyNQ==&mid=2247483728&idx=1&sn=6d1eebbdf371f4964edeccb78f887ff8&chksm=f96360aace14e9bc9c4f730b627e7532e8f8e4e0f146f635bfe2d6c687d1b168fbed42475136#rd" 
+                    title="为船舶调查保障组的棒小伙们打call">
+                        <font color="black">为船舶调查保障组的棒小伙们打call</font></a>
+                        <span style='float:right;'>[2018-01-18]</span>
+            </li>
+
+            <li style="margin-top:10px"><a href="https://mp.weixin.qq.com/s?__biz=MzUxMjU4NzkyNQ==&mid=2247483734&idx=1&sn=4730f78bc87bac7d95594733c5f57d8e&chksm=f96360acce14e9ba4fe31f55fb7f539d2d96a6459ec3b5bc5a537737346411a53db96b9419bd#rd" 
+                    title="那年，我们看过的海踏过的浪">
+                        <font color="black">那年，我们看过的海踏过的浪</font></a>
+                        <span style='float:right;'>[2018-01-29]</span>
+            </li>
+
+            <li style="margin-top:10px"><a href="https://mp.weixin.qq.com/s?__biz=MzUxMjU4NzkyNQ==&mid=2247483737&idx=1&sn=2532ca2945f5d921b3ecc51fac850aa9&chksm=f96360a3ce14e9b59085f78fa6602e777cab5288a0852c541cf250a954d68e68b516b49f3932#rd" 
+                    title="现学现卖之短鳍领航鲸观察指南">
+                        <font color="black">现学现卖之短鳍领航鲸观察指南</font></a>
+                        <span style='float:right;'>[2018-01-30]</span>
+            </li>
+
+            <li style="margin-top:10px"><a href="https://mp.weixin.qq.com/s?__biz=MzUxMjU4NzkyNQ==&mid=2247483740&idx=1&sn=9a33eb4298b93e839e8b40872eb8133c&chksm=f96360a6ce14e9b0092e93ee177de69004c55218193dd028472d2aad068785bfc35ddf5d190a#rd" 
+                    title="情牵“超级蓝血月”之夜">
+                        <font color="black">情牵“超级蓝血月”之夜</font></a>
+                        <span style='float:right;'>[2018-02-01]</span>
+            </li>
+
+            <li style="margin-top:10px"><a href="https://mp.weixin.qq.com/s?__biz=MzUxMjU4NzkyNQ==&mid=2247483747&idx=1&sn=5117f8c4bff8dddfbc0f8a6109ad31af&chksm=f9636099ce14e98f150da81eb1812dc61ccbe93b5f4e12585ec1f708b20d165b3d76c323a72e#rd" 
+                    title="49航次一航段首席、首席助理有话说">
+                        <font color="black">49航次一航段首席、首席助理有话说</font></a>
+                        <span style='float:right;'>[2018-02-08]</span>
+            </li>
+
+            <li style="margin-top:10px"><a href="https://mp.weixin.qq.com/s?__biz=MzUxMjU4NzkyNQ==&mid=2247483688&idx=1&sn=cfead1788fac33091c3b2b2a7431fdca&chksm=f96360d2ce14e9c47628093450c13ef2c0c5f9380ec4217730d39bb14362242da5cb5a7561a0#rd" 
+                    title="小伙伴们已经按耐不住了">
+                        <font color="black">小伙伴们已经按耐不住了</font></a>
+                        <span style='float:right;'>[2017-12-29]</span>
+            </li>
+
+        </div>
+    </div>
+    </div>
+
+    <div class="col-lg-6">
+    <div class="panel panel-primary" >
+        <div class="panel-heading" >
+            <h3 class="panel-title" align="left"><strong><font size="3" ">媒体聚焦</font></strong>
+            <span style='float:right;'><a href="pages/Media_focus/index.html" ><font  size="3" color="black">阅读更多</font></a></span>
+            </h3>
+        </div>
+        <div class="panel-body" align="left">
+            
+            <li ><a href="https://mp.weixin.qq.com/s?__biz=MzUxMjU4NzkyNQ==&mid=2247484073&idx=1&sn=137ff7e99cef59dd2797a0390abde6c8&chksm=f9636353ce14ea45164a0d63f8715acd77fa455f6c67abb80ed412e405f72a8a32914fcb881f#rd" 
+                    title="海南广播电视总台： “深海勇士”号返航创造多项中国载人深潜新纪录">
+                        <font color="black">海南广播电视总台： “深海勇士”号返航...深潜新纪录</font></a>
+                        <span style='float:right;'>[2019-03-09]</span>
+            </li>
+
+            <li style="margin-top:10px"><a href="https://mp.weixin.qq.com/s?__biz=MzUxMjU4NzkyNQ==&mid=2247484055&idx=1&sn=c6b6ce2608b5b26f17de9bc17b8d3195&chksm=f963636dce14ea7b29c6579c4ac0dddbd4cc5e6def1f67fb1025e24099ac4f11a3a30a80e2b3#rd" 
+                    title="自观察者网：外媒记者首次跟拍”蛟龙号”，这一幕令其惊呼！">
+                        <font color="black">外媒记者首次跟拍”蛟龙号”，这一幕令其惊呼！</font></a>
+                        <span style='float:right;'>[2019-02-28]</span>
+            </li>
+
+            <li style="margin-top:10px"><a href="https://mp.weixin.qq.com/s/auiphMPFnn59BeS5QMQHBA?scene=25#wechat_redirect" 
+                    title="中国海洋报：难得一见！“深海勇士”潜水器在“西风带”捞到稀世珍宝！">
+                        <font color="black">难得一见！“深海勇士”潜水器在“西风带”捞到稀世珍宝！</font></a>
+                        <span style='float:right;'>[2019-01-28]</span>
+            </li>
+
+            <li style="margin-top:10px"><a href="https://mp.weixin.qq.com/s?__biz=MzUxMjU4NzkyNQ==&mid=2247483892&idx=1&sn=ed4afccb1923d9688f88d31b97813ea4&chksm=f963600ece14e9182fc94f7c9172a0417ccd61cfbffd6d9a33a6df8af1f715813a09d1bc6098#rd" 
+                    title="中国海洋报：大洋49航次第四航段科考作业顺利收官">
+                        <font color="black">中国海洋报：大洋49航次第四航段科考作业顺利收官</font></a>
+                        <span style='float:right;'>[2018-06-22]</span>
+            </li>
+
+            <li style="margin-top:10px"><a href="https://mp.weixin.qq.com/s?__biz=MzU1NTMzNDY1MA%3D%3D&mid=2247483950&idx=2&sn=ff3f98225704a302750dc5338bca79cc&scene=45#wechat_redirect" 
+                    title="科技日报：完成异常探测、微塑料取样、海水取样等，大洋49航次第四航段科考收官">
+                        <font color="black">完成异常探测...大洋49航次第四航段科考收官</font></a>
+                        <span style='float:right;'>[2018-06-21]</span>
+            </li>
+
+            <li style="margin-top:10px"><a href="https://mp.weixin.qq.com/s?__biz=MzUxMjU4NzkyNQ==&mid=2247483887&idx=1&sn=af66fc5aadd840c448c1a5419f9b2c08&chksm=f9636015ce14e90300af637fab2e49b134075846e8f71344d7451588c2c06f54a54772d6e752#rd" 
+                    title="科技日报：西南印度洋，这里的热液生物不一般">
+                        <font color="black">科技日报：西南印度洋，这里的热液生物不一般</font></a>
+                        <span style='float:right;'>[2018-06-20]</span>
+            </li>
+
+            <li style="margin-top:10px"><a href="https://mp.weixin.qq.com/s?__biz=MzI3NDI5MjI4OQ%3D%3D&mid=2247501005&idx=1&sn=553787ab820e742f86c03aa0c9937337&scene=45#wechat_redirect" 
+                    title="科技日报：大洋49航次科考深海照片独家呈现，这些海底动物你认识几个？">
+                        <font color="black">大洋49航次科考深海照片独家呈现，这些海底动物你认识几个</font></a>
+                        <span style='float:right;'>[2018-05-20]</span>
+            </li>
+
+            <li style="margin-top:10px"><a href="https://mp.weixin.qq.com/s?__biz=MzI3NDI5MjI4OQ%3D%3D&mid=2247500783&idx=3&sn=e33a1db9ab6465fb355ae6312e7c40a5&scene=45#wechat_redirect" 
+                    title="科技日报：茫茫大海，搜寻海底地震仪是一种怎样的体验">
+                        <font color="black">科技日报：茫茫大海，搜寻海底地震仪是一种怎样的体验</font></a>
+                        <span style='float:right;'>[2018-05-16]</span>
+            </li>
+
+            <div class="clear">
+            </div>
+        </div>
+    </div>
+    </div>
+    </div>
+
+    <!-- 图片轮播脚本 -->
+    <script>
+        $(function () {
+            var index2 = 0;
+            var timer2;
+            $(".but2 a").mouseover(function () {
+                index2 = $(this).index();
+                $(".but2 a").eq(index2).addClass("active2").siblings().removeClass("active2");
+                $(".imgs2 li").fadeOut();
+                $(".imgs2 li").eq(index2).fadeIn();
+            })
+            timer2 = setInterval(lb2, 20000);
+
+            function lb2() {
+                index2++;
+                if (index2 > ($(".imgs2 li").size() - 1)) {
+                    index2 = 0;
+                }
+                $(".but2 a").eq(index2).addClass("active2").siblings().removeClass("active2");
+                $(".imgs2 li").fadeOut();
+                $(".imgs2 li").eq(index2).fadeIn();
+            }
+            $(".box2").mouseover(function () { clearInterval(timer2) })
+            $(".box2").mouseout(function () { timer2 = setInterval(lb2, 20000) })
+            $(".pre2").click(function () {
+                index2--;
+                if (index2 < 0) {
+                    index2 = $(".imgs2 li").size() - 1;
+                }
+                $(".but2 a").eq(index2).addClass("active2").siblings().removeClass("active2");
+                $(".imgs2 li").fadeOut();
+                $(".imgs2 li").eq(index2).fadeIn();
+            })
+            $(".next2").click(function () {
+                lb2();
+            })
+        })
+
+    </script>
+    
+
+
+.. toctree::
+   :hidden:
+
+   pages/Group/index_project.rst
+   pages/Group/index_workgroup.rst
+   pages/Group/index_people.rst
+   pages/Group/index_contact.rst
+   pages/News/index.rst
+   pages/Advance/index.rst
+   pages/Cruise/index.rst
+   pages/Media_focus/index.rst
+   pages/People_live/index.rst
+   blog/index.rst
+   _static/rst/include_links.rst
+
+
+
+   

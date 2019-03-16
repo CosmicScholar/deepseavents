@@ -1,0 +1,187 @@
+body {
+    background-color: #F0F6FC;
+          background: linear-gradient(to top, #A3C8EC, #F0F6FC 60%);
+    min-height: 1350px;
+  }
+  
+  article {
+    -webkit-box-shadow: 0 12px 5px -11px #999;
+          box-shadow: 0 12px 5px -11px #999;
+          border: 1px solid #E0E0E0;
+  }
+  
+  cite {
+    font-style: normal;
+  }
+  
+  #main {
+    margin: 0;
+  }
+  
+  .inside-right-sidebar {
+    margin: 0;
+    margin-top:0;
+  }
+  
+  .inside-header {
+    -webkit-border-top-left-radius: 7.75% 51%;
+          border-top-left-radius: 7.75% 51%;
+            border-top: 1px solid #E0E0E0;
+            border-right: 1px solid #E0E0E0;
+            border-left: 1px solid #E0E0E0;
+  }
+  
+  .header-image {
+    -webkit-border-top-left-radius: 7.75% 51%;
+          border-top-left-radius: 7.75% 51%;
+  }
+  
+  .site-header.grid-container.grid-parent {
+    -webkit-border-top-left-radius: 7.75% 51%;
+          border-top-left-radius: 7.75% 51%;
+  }
+  
+  .page-header {
+    -webkit-box-shadow: 0 12px 5px -11px #999;
+          box-shadow: 0 12px 5px -11px #999;
+          border: 1px solid #E0E0E0;
+  }
+  
+  .wp-caption-text.gallery-caption {
+    font-size: 10px;
+  }
+  
+  #search-6 {
+    -webkit-box-shadow: 0 12px 5px -11px #999;
+          box-shadow: 0 12px 5px -11px #999;
+          border: 1px solid #E0E0E0;
+            background: linear-gradient(to top, #D6D6D6, #E6E6E6 30%);
+    -webkit-border-radius: 5px;
+          border-radius: 5px;
+  }
+  
+  #recent-posts-3, #st_latest_posts_widget-2, #st_latest_posts_widget-3, #st_latest_posts_widget-4, #st_latest_posts_widget-5, #gadwp-frontwidget-report-2 {
+    -webkit-box-shadow: 0 12px 5px -11px #999;
+          box-shadow: 0 12px 5px -11px #999;
+          border: 1px solid #E0E0E0;
+  }
+  
+  #nav_menu-5 {
+    -webkit-box-shadow: 0 12px 5px -11px #999;
+          box-shadow: 0 12px 5px -11px #999;
+          border: 1px solid #E0E0E0;
+  }
+  
+  #gadash_frontend_widget-3 {
+    -webkit-box-shadow: 0 12px 5px -11px #999;
+          box-shadow: 0 12px 5px -11px #999;
+          border: 1px solid #E0E0E0;
+  }
+  
+  #nav_menu-10, #nav_menu-11, #nav_menu-12 {
+    -webkit-box-shadow: 0 12px 5px -11px #999;
+          box-shadow: 0 12px 5px -11px #999;
+          border: 1px solid #E0E0E0;
+  }
+  
+  #comments {
+    -webkit-box-shadow: 0 12px 5px -11px #999;
+          box-shadow: 0 12px 5px -11px #999;
+          border: 1px solid #E0E0E0;
+  }
+  
+  /*SYDNEY UNI AND SCHOOL OF GEOSCIENCE WIDGET LINKS*/
+  
+  #black-studio-tinymce-5 {
+    -webkit-box-shadow: 0 12px 5px -11px #999;
+          box-shadow: 0 12px 5px -11px #999;
+          border: 1px solid #E0E0E0;
+            padding-top: 12px;
+            padding-bottom: 7px;
+  }
+  
+  /* --END OF SYD UNI AND GEOSCI LINK STYLING-- */
+  
+  /*GPLATES LINKS WIDGET STYLING*/
+  
+  #siteorigin-panels-builder-2 {
+    -webkit-box-shadow: 0 12px 5px -11px #999;
+          box-shadow: 0 12px 5px -11px #999;
+          border: 1px solid #E0E0E0;
+            padding: 0;
+  }
+  
+  #siteorigin-panels-builder-2 a {
+    padding: 5px;
+    margin: 0px;
+  }
+  
+  /* --END OF GPLATES LINKS WIDGET STYLING-- */
+  
+  pre {
+    padding: 0;
+    background: none;
+  }
+  
+  .page-header-image {
+    display: none; 
+  }
+  
+  .page-header-image-single {
+    display: none; 
+  }
+  
+  .attachment-post-thumbnail {
+    display: none;
+  }
+  
+  /* TO STOP DISPLAYING FEATURED IMAGES IN FULL SIZE FOR POST PREVIEWS */
+  
+  .attachment-full.wp-post-image {
+    display: none;
+  }
+  
+  /* --END-- */
+  
+  a, a:active, a:focus {
+    outline: none;
+  }
+  
+  .advps-slide-container {
+    overflow: visible !important;
+  }
+  
+  .author.vcard {
+    display: none;
+  }
+  
+  /* CONTROL PADDING ABOVE LINKS TO INTERNATIONAL PROJECTS ON THE HOME PAGE */
+  
+  .international-projects {
+    padding-top: 20px;
+  }
+
+  .deepseavents-right-sidebar{
+    margin-top: 10px;
+  }
+
+  .deepseavents-inside-article{
+    margin-left: 1px;
+    margin-top: 1px;
+    margin-right: 1px;
+    margin-bottom: 0px;
+    max-height: 1000px;
+  }
+  /* 限制图片的最大宽度和最大高度 */
+  /* img{
+    max-height:300px;
+    max-width:1500px;
+    height:auto;
+    width:auto;
+} */
+  /* --END-- */
+  #st_latest_posts_widget-2{
+      height:405px;
+      margin-left:5px;
+      overflow:scroll;
+  }

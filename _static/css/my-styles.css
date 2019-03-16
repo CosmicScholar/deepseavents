@@ -1,0 +1,98 @@
+
+/* 缩小一级标题的大小并居中 */
+h1{font-weight:bold;font-size:28px; text-align:center; margin-top:40px; margin-bottom:40px}
+h2{font-weight:normal;font-size:24px; text-align:left; margin-top:40px; color: dodgerblue}
+h3{font-weight:normal;font-size:20px; text-align:left; margin-top:40px; color: rgb(45, 160, 45)}
+h4{font-weight:bold;font-size:16px; text-align:left; margin-top:40px;color:burlywood}
+/* h2{font-weight:normal;font-size:24px; text-align:left; margin-top:40px; }
+h3{font-weight:normal;font-size:20px; text-align:left; margin-top:40px; }
+h4{font-weight:bold;font-size:16px; text-align:left; margin-top:40px;} */
+h5{font-weight:bold; text-align:left; margin-top:40px}
+
+.highlight .c { color: #408090; font-weight: bold }
+
+/* code block复制按钮 */
+button.copybtn {
+    webkit-transition: opacity .3s ease-in-out;
+    -o-transition: opacity .3s ease-in-out;
+    transition: opacity .3s ease-in-out;
+    opacity: .4;
+    padding: 2px 6px;
+    position: absolute;
+    right: 4px;
+    top: 4px;
+  }
+  div.highlight:hover .copybtn, div.highlight .copybtn:focus {
+      opacity: .7;
+  }
+  div.highlight .copybtn:hover {
+      opacity: 1;
+  }
+  div.highlight {
+      position: relative;
+  }
+/* 
+  button.HideShowCodebtn {
+    webkit-transition: opacity .3s ease-in-out;
+    -o-transition: opacity .3s ease-in-out;
+    transition: opacity .3s ease-in-out;
+    opacity: 0;
+    padding: 2px 6px;
+    position: absolute;
+    right: 14px;
+    top: -20px;
+  }
+  div.highlight:hover .HideShowCodebtn, div.highlight .HideShowCodebtn:focus {
+      opacity: .3;
+  }
+  div.highlight .HideShowCodebtn:hover {
+      opacity: 1;
+  }
+  div.highlight {
+      position: relative;
+  } */
+  
+
+  #slideshow { 
+    margin: 50px auto; 
+    position: relative; 
+    width: 450px; 
+    height: 240px; 
+    padding: 10px; 
+    /* box-shadow: 0 0 20px rgba(0,0,0,0.4);  */
+}
+
+#slideshow > div { 
+    position: absolute; 
+    top: 10px; 
+    left: 10px; 
+    right: 10px; 
+    bottom: 10px; 
+}
+/* #slideshow.div:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+  } */
+
+
+  /* 首页图片轮播样式 */
+/* .box2{width:1003px;height:379px;margin:0px auto;position:relative;overflow:hidden;} */
+.box2{width:100%;padding-top:56.2%;position:relative;overflow:hidden;} 
+/* .imgs2{width:1003px;height:379px;} */
+/* .imgs2 img{width:1003px;height:360px;} */
+.imgs2 li{float:left;display:none;position:absolute;left:0;top:0;}
+.but2{width:130px;height:20px;position:absolute;bottom:30px;right:50px;margin-left:-50px;}
+.but2 a{display:block;float:left;width:16px;height:4px;background:#fff;
+margin:4px 6px;border:0.5px solid #0081dc;}
+.but2 a.active2{background:#063b74;}
+.pre2,.next2{position:absolute;width:50px;height:50px;top:50%;
+margin-top:-25px;color:#fff;line-height:50px;text-align:center;cursor:pointer;opacity:0.5;}
+.pre2{left:0;background:url(banner-ico.png) no-repeat 0 0;}
+.next2{right:0;background:url(banner-ico.png) no-repeat -90px 0;}
+.box2 .pre2:hover,.box2 .next2:hover{opacity:1;}
+/* 限制图片的最大宽度和最大高度 */
+/* .img{
+    max-height:379px;
+    max-width:1503px;
+    height:auto;
+    width:auto;
+} */

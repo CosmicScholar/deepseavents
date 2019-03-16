@@ -1,0 +1,59 @@
+.. _group_workgroup:
+
+
+`Seafloor Massive Sulfides Resource along Mid-Ocean Ridges <https://www.interridge.org/WG_SMS_MOR>`__
+============================================================================================================================================
+
+Co-Chairs
+----------------
+
+
+    Chunhui Tao (Second Institute of Oceanography, SOA, China)
+
+    Georgy Cherkashov (VNIIOkeangeologia, Russia)
+
+    Maurice Tivey (Woods Hole Oceanographic Institution, USA)
+
+Group Members
+------------------------
+
+    Fernando Barriga (University of Lisbon, Portugal)
+
+    Ágata Dias (Institute of Science and Environment, USJ, Macau SAR)
+
+    Amy Gartman (United States Geological Survey, USA)
+
+    John Jamieson (Memorial University, Canada)
+
+    John Kurian (National Center for Antarctic and Ocean Research, India)
+
+    Jiabiao Li (Second Institute of Oceanography, SOA, China)
+
+    Bramley Murton (National Oceanography Center, UK)
+
+    Sang-Joon Pak (Korea Institute of Ocean Science and Technology, South Korea)
+
+    Sven Petersen (GEOMAR, Germany)
+
+    Desiree Roerdink (University of Bergen, Norway)
+
+    Isobel Yeo (National Oceanography Center, UK)
+
+Scientific Objectives
+-------------------------------
+
+The working group aims to address the following scientific problems:
+
+    1) Understand the geological factors that contribute for the formation, distribution and preservation of seafloor massive sulfide deposits, including geological and tectonic setting;
+    
+    2) Characterize the geological, geophysical and geochemical signatures that allow for the detection and documentation of inactive and buried sulfide deposits at Mid-Ocean Ridge-axis or off-axis settings;
+    
+    3) Identify multi-scale observations that could be used to predict past, present and possibly future hydrothermal deposit formation;
+    
+    4) Determine the spatial distribution pattern and resource potential of mid ocean ridges with various spreading rates;
+    
+    5) Understand the timing and variations in the geological drivers for hydrothermal activity across mid-ocean ridge segment-scale systems;
+    
+    6) Determine the dimensional structure and metal inventory for mid-ocean spreading ridges based on long-term heat flow, volcanism, fluid fluxes and sedimentation rates;
+    
+    7) Understand the processes of seafloor and sub-seafloor sulfide formation, weathering, and their impact on crust-to-water column exchange in metals.
